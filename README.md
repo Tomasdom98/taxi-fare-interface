@@ -1,6 +1,8 @@
 # NY Taxi Fare prediction interface
 
 ![](images/snapshot.png)
+ 
+Website access // https://tomasdom98.github.io/taxi-fare-interface/
 
 ## Setup
 
